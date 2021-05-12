@@ -1,0 +1,93 @@
+.row1{
+    background-color:#040c1db8;
+    padding-top: 20px;
+    color:white;
+    text-align: center;
+    font-size: 30px;
+    font-family: Roboto;
+    font-style: italic;
+    font-weight:bold;
+    padding-bottom: 10px;
+}
+.row11{
+    background-image: url(Background.jpg);
+}
+.row2{
+    margin-top: 20px;
+    color:black;
+    text-align: center;
+    font-size: 30px;
+    font-family: Roboto;
+    font-style: italic;
+    font-weight:bold;
+    margin-bottom: 10px;
+}
+.image{
+    height:150px;
+    width:150px;
+    margin-top: 60px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+}
+.matter{
+    text-align: center;
+    color:white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+.line{
+   margin-left: 250px;;
+}
+.image1{
+    height:20px;
+    width:20px;
+    margin-left: 50px;
+}
+.matter1{
+    color:white;
+    text-align: center;
+}
+.matter2{
+    padding-top: 20px;
+    color:white;
+    text-align: center;
+}
+.matter3{
+    border-radius: 25px;
+}
+.row12{
+    background-image: url(image1.jpg);
+}
+.contact{
+    margin-top: 20px;
+    color:black;
+    text-align: center;
+    font-size: 30px;
+    font-family: Roboto;
+    font-style: italic;
+    font-weight:bold;
+    background-color: turquoise;
+}
+.list{
+    text-align: left;
+    color:aliceblue;
+}
+.image3{
+    padding-bottom: -10px;
+    height: 40px;
+    width:40px;
+    border-radius: 50px;
+    margin-left: 20px;
+}
+.image4{
+    padding-bottom: -10px;
+    height: 40px;
+    width:40px;
+    border-radius: 50px;
+    margin-left: 10px;
+}
+.last{
+    background-color: #040c1db8;
+    height: 80px;
+}
